@@ -1,2 +1,2 @@
 # To-Do-List
-With only Html CSS JS Latest Features Added
+With only HTML CSS JavaScript Latest Features Added
